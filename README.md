@@ -14,8 +14,6 @@
 Hello, my name is Alex, I'm a beginner web developer. I learning definite stack, who helps me became a good fullstack developer🤗
 
 <br />
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
   
 **Languages and Tools:**  
 
