@@ -20,8 +20,17 @@ Hello, my name is Alex, I'm a beginner web developer. I learning definite stack,
 <code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
 <code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg"></code>
 <code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg"></code>
-<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/sql.svg"></code>
+
+**Databases:**
+
+<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
+<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg"></code>
+<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/redis.svg"></code>
 
 **Frameworks:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg"></code>
+<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg"></code>
+<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/redux.svg"></code>
+<code><img height="20" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg"></code>
+
