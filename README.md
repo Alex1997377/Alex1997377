@@ -15,9 +15,9 @@ Hello, my name is Alex, I'm a beginner web developer. I learning definite stack,
 
 <br />
   
-**Languages and Tools:**  
+**Languages:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src"https://www.yandex.ru/images/search?img_url=https%3A%2F%2Fimg2.wallspic.com%2Fcrops%2F0%2F0%2F3%2F3%2F6%2F163300%2F163300-python-programming_language-standing-icon-java-3840x2160.png&lr=20115&pos=0&rpt=simage&source=serp&text=python%20logo"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
